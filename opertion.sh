@@ -1,2 +1,2 @@
 #!/bin/bash/ -x
-echo plusss
+echo pluss
